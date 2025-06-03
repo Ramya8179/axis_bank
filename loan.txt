@@ -8,5 +8,8 @@
 	{
 		System.out.println("No EMI pending");
 	}
+	public void loan()
+	{
+		}
 
 }
