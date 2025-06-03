@@ -4,5 +4,6 @@ public class Conflict
 	{
 		int a=10;
 		int b=22;
+		char c='r';
 	}
 }
