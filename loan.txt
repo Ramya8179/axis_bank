@@ -10,7 +10,7 @@
 	}
 	public void loan()
 	{
-		double loan=56000;
+		float f=56.57;
 		}
 
 }
