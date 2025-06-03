@@ -10,7 +10,11 @@
 	}
 	public void loan()
 	{
+<<<<<<< HEAD
 		float f=22.445f;
+=======
+		double loan=56000;
+>>>>>>> df067c297d5efd1964cda9b5751e69e99117ab13
 		}
 
 }
