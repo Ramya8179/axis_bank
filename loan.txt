@@ -1,0 +1,16 @@
+ class
+{
+	public static void main(String[]args)
+	{
+		System.out.println("emi pending");
+	}
+	public void due()
+	{
+		System.out.println("No EMI pending");
+	}
+	public void loan()
+	{
+		double loan=56000;
+		}
+
+}
