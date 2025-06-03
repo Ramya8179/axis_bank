@@ -1,9 +1,12 @@
-class
+ class
 {
-        public static void main(String[]args)
-      {
-
-     System.out.println("emi pending");
-}
+	public static void main(String[]args)
+	{
+		System.out.println("emi pending");
+	}
+	public void due()
+	{
+		System.out.println("No EMI pending");
+	}
 
 }
